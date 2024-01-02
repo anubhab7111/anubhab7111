@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anubhab7111
-- 👀 I’m interested in data structures and algorithms
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning data structures and algorithm
 - 📫 You can reach me on linkedin www.linkedin.com/in/anubhab-das-498155287 
 
 
